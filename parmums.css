@@ -57,7 +57,7 @@ header {
   background: url('materials/9.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 300px;
 }
 
 header .profile-image {
