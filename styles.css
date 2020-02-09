@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: url('materials/10.jpg') no-repeat top center ;
 }
 /* Link Styles */
 
@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: tan;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -54,7 +54,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('materials/10.jpg') no-repeat top center ;
+  background: cornsilk;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
